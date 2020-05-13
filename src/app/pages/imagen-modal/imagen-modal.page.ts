@@ -27,13 +27,6 @@ export class ImagenModalPage implements OnInit {
    
   };
   
-  imagenes_papa = [
-    'assets/Fotos_Papas/foto1.jpg', 
-    'assets/Fotos_Papas/foto2.jpg',
-    'assets/Fotos_Papas/foto3.jpeg',
-    'assets/Fotos_Papas/foto4.jpg',
-  ]
-  
   constructor(private modalController: ModalController, private navParams: NavParams) { }
 
   ngOnInit() {
