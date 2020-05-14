@@ -17,21 +17,21 @@ export class Terreno2Page implements OnInit {
       sufix:"Buena",
       nombre:"Sandía",
       imagen:'./assets/terreno1/sandia.jpg',
-      sonido:'/assets/terreno1/maiz.mp3',
+      sonido:'/assets/terreno1/Sandia1.mp3',
       prefix:"",
     },
     {
       sufix:"",
       nombre:"Melón",
       imagen:'./assets/terreno1/melon.jpg',
-      sonido:'/assets/terreno1/maiz.mp3',
+      sonido:'/assets/terreno1/Melon.mp3',
       prefix:"de Alta Calidad",
     },
     {
       sufix:"",
       nombre:"Naranja",
       imagen:'./assets/terreno1/naranja.jpg',
-      sonido:'/assets/terreno1/maiz.mp3',
+      sonido:'/assets/terreno1/Naranjas.mp3',
       prefix:"no asada",
     }
   ]
